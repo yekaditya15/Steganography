@@ -1,0 +1,30 @@
+Introduction:
+    Multimedia types:
+        Text/Image/Audio
+    Image:
+        What is image?
+        How image is represented?
+            Matrix
+            (some idea about signal, set, vectors)
+        RGB channels
+        Image compression:
+            lossy
+            lossless
+    Information security:
+        Cryptography
+        Steganography
+        Encoding
+    Steganography:
+        What is steganography?
+        Types of steganography?
+        Spatial domain:
+            LSB steganography
+        Frequency domain:
+            <search internet>
+    Project description:
+        Detection (and decoding) of LSB steganography
+    Detection of steganography:
+        Observations:
+            Follows patterns
+            Non uniform distribution
+            High information entropy
